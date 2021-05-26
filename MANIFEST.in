@@ -1,0 +1,5 @@
+include README.rst
+include LICENSE.pdf
+
+recursive-include dxchange *.py
+recursive-include wavepy *.py
